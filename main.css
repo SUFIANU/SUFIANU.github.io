@@ -1,0 +1,29 @@
+body{
+	background: mediumseagreen;}
+
+h1{ 
+	color: black
+
+ }
+h3{
+
+	color: blue;
+	font: Arial Black;
+}
+
+b{
+	color: red;
+}
+
+hr{ border:solid;  }
+strong{
+	color: red;
+}
+
+
+a{background-color: white;
+	font-family: sans-serif;
+	font-size: 20px;
+
+
+}
